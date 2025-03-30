@@ -2,8 +2,8 @@
 Here I write short notes about software engineering and management.
 
 ## Engineering
-(External dependencies)[https://github.com]
-("Clean" architecture)[https://github.com]
+[External dependencies](https://github.com)  
+["Clean" architecture](https://github.com)  
 
 ## Management
-(Model of management)[https://github.com]
+[Model of management](https://github.com)  
